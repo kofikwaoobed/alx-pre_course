@@ -3,4 +3,4 @@ ALXroot@be7ff0ce95a3:~/alx-pre_course/0x01-git/bash# cat alx
 
 
 
-echo ALX
+echo "ALX School is so cool!"
